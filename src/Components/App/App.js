@@ -14,7 +14,7 @@ function regularice(objelist){
     album: elem.album.name,
     id: elem.id,
     uri: elem.uri
-}))
+  }))
 }
 
 function fund(array, id) {
