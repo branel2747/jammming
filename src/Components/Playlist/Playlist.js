@@ -1,7 +1,7 @@
 import './Playlist.css';
 import { TrackList } from '../TrackList/TrackList';
 import React from 'react';
-import ReactDOM from 'react-dom/client';
+//import ReactDOM from 'react-dom/client';
 export class Playlist extends React.Component {
     constructor(props){
       super(props)

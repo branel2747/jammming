@@ -1,6 +1,6 @@
 import './SearchBar.css';
 import React from 'react';
-import ReactDOM from 'react-dom/client';
+//import ReactDOM from 'react-dom/client';
 export class SearchBar extends React.Component {
     constructor(props){
       super(props)
