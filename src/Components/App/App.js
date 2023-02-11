@@ -17,7 +17,10 @@ function regularice(objelist){
 }))
 }
 
-function fund(array, id) {return array.find(element => element.id === id);}
+function fund(array, id) {
+  const auiliar=array.find(element => element.id === id);
+  return auiliar
+}
 
 class App extends React.Component{
   constructor(props){
